@@ -1,5 +1,5 @@
 # SKY-Engine
-** A modified version of TurboWarp. **
+**A modified version of TurboWarp.**
 *   A modified version of TurboWarp.
 *   Here's the first list item.
 
@@ -18,3 +18,9 @@
         </html>
 
 3.  Update the title to match the name of your website.
+
+2.  Marvel at its beauty.
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)
+
+3.  Close the file.
