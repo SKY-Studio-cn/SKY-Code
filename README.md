@@ -11,22 +11,6 @@
     > - Better to make apps for SKY UI/OS
     > - SKY-Engine is a modified version of TurboWarp.
     1.  Open the file.
-2.  Find the following code block on line 21:
-   
-        <html>
-          <head>
-            <title>Test</title>
-          </head>
-          <body>
-            <h1>Hello World!</h1>
-          </body>
-        </html>
-
-# TurboWarp Extension Gallery
-
-User-contributed unsandboxed extension gallery for TurboWarp.
-
-https://extensions.turbowarp.org/
 
 ## Contributing
 
