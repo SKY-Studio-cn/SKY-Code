@@ -8,19 +8,13 @@ A modified version of TurboWarp.
     1.  Open the file.
 2.  Find the following code block on line 21:
 
-        &lt;html>
-          &lt;head>
-            &lt;title>Test&lt;/title>
-          &lt;/head>
-
-3.  Update the title to match the name of your website.
-
-1.  Open the file.
-2.  Find the following code block on line 21:
-
-        &lt;html>
-          &lt;head>
-            &lt;title>Test&lt;/title>
-          &lt;/head>
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
+          <body>
+            <h1>Hello World!</h1>
+          </body>
+        </html>
 
 3.  Update the title to match the name of your website.
