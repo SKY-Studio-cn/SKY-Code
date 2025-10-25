@@ -1,8 +1,6 @@
 # SKY-Engine
 **A modified version of TurboWarp.**
-
-    ![Tux, SKY Engine Title](/SKYEngineTitle.png)
-    
+![Tux, SKY Engine Title](/SKYEngineTitle.png)
 *   A modified version of TurboWarp.
 *   Here's the first list item.
 
