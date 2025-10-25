@@ -21,6 +21,6 @@
 
 2.  Marvel at its beauty.
 
-    ![Tux, SKY Engine Title](/SKYEngine-Title.png)
+    ![Tux, SKY Engine Title](/SKYEngineTitle.png)
 
 3.  Close the file.
