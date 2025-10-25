@@ -7,13 +7,13 @@
 *   A modified version of TurboWarp.
 
 ## What can it do
-*    For us
+*    For Us
      > Better to make apps for SKY UI/OS
      > SKY-Engine is a modified version of TurboWarp.
      > Better to make apps for SKY UI/OS
      > SKY-Engine is a modified version of TurboWarp.
 
-*    For
+*    For Developers
 
 *    For Users
      > Better to running your scratch projects
