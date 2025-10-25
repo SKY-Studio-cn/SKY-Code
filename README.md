@@ -21,6 +21,6 @@
 
 2.  Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/SKY Engine-Title.png)
+    ![Tux, the Linux mascot](/SKYEngine-Title.png)
 
 3.  Close the file.
