@@ -1,2 +1,2 @@
 # SKY-Engine
-*A modified version of TurboWarp.*
+A modified version of TurboWarp.
