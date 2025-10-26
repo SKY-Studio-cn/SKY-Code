@@ -23,8 +23,8 @@
 
 |Compare wit|Scratch|TurboWarp|02Engine|SKYEngine|
 |-----------|-----------|-----------|-----------|-----------|
-|Operating speed|60%|80%|95%|85%|
-|Practicality|50%|80%|90%|70%|
+|Operating speed|60%|80%|98%|86%|
+|Practicality|57%|83%|92%|88%|
 
 ## Contributing
 
