@@ -21,10 +21,10 @@
 
  ## Compare with *other editor*
 
-|Compare wit|Scratch|TurboWarp|02Engine|
-|-----------|-----------|-----------|-----------|
-|Operating speed|100%| 50%|20%|
-|Practicality|10%|50%|100%|
+|Compare wit|Scratch|TurboWarp|02Engine|SKYEngine|
+|-----------|-----------|-----------|-----------|-----------|
+|Operating speed|60%|80%|95%|85%|
+|Practicality|50%|80%|90%|70%|
 
 ## Contributing
 
