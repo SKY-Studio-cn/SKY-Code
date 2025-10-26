@@ -19,7 +19,7 @@
      > Better to running your scratch projects
      > Many more new extensions
 
-## **About SKY Studio**
+## **Compare with *other editor***
 
 | Syntax      |描述|
 | ----------- | ----------- |
