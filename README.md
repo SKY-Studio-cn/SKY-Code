@@ -32,5 +32,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## to users
 
-#Tech No Logy.
+# Tech No Logy.
 ———— by shxUwU（FreeUI Official）
