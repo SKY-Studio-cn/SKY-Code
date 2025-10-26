@@ -1,6 +1,6 @@
 # SKY-Engine
 
-![Tux, SKY Engine Title](/SKYEngineTitle.png)
+![SKY Engine Title](/SKYEngineTitle.png)
 
 ## **What is it？**
 
@@ -21,11 +21,7 @@
 
 ## **About SKY Studio**
 
-<html>
-     <body>
-        <span style="color:red">红</span>, <span style="color:yellow">黄</span>,<span style="color:green">绿</span>
-     </body>
-<html>
+
 
 ## Contributing
 
