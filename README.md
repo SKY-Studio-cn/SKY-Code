@@ -6,7 +6,7 @@
 
 *   A modified version of TurboWarp.
 *   Create your own app for the SKY OS/UI
-*   Running your scratch projects faster
+*   Running your Scratch projects faster
 
 ## **What can it do？**
 *    For us
