@@ -21,9 +21,9 @@
 
  ## Compare with *other editor*
 
-| Scratch      |TurboWarp|TurboWarp|
-| ----------- | ----------- | ----------- |
-| Header      | Title       | Header      | Title       |
+| To      |Scratch|TurboWarp|02Engine|
+| ----------- | ----------- | ----------- | ----------- |
+| Operating speed      | 100%       | 50%      |20%|
 | Paragraph   | Text        | Paragraph   | Text        |
 
 ## Contributing
