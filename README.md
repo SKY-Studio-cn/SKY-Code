@@ -21,7 +21,10 @@
 
 ## **About SKY Studio**
 
-
+| Syntax      |描述|
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ## Contributing
 
