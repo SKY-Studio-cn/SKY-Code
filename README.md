@@ -5,10 +5,11 @@
 ## **What is it？**
 
 *   A modified version of TurboWarp.
+*   Run Scratch projects faster.
 
 ## **What can it do？**
 *    For us
-     * Better to make apps for SKY UI/OS
+     * Better to update SKY UI/OS
 *    For Developers
 
      * Better to make apps for SKY UI/OS
