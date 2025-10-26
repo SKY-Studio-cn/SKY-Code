@@ -22,7 +22,9 @@
 ## **About SKY Studio**
 
 <html>
-     <button type="button" data-hotkey="Mod+s" class="prc-Button-ButtonBase-c50BI BlobEditor-module__Button--c1rQR" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="primary" aria-describedby=":re5:-loading-announcement"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-HKbr-"><span data-component="text" class="prc-Button-Label-pTQ3x" _msttexthash="10892830" _msthash="1430">提交更改...</span></span></button>
+     <body>
+        <span style="color:red">红</span>, <span style="color:yellow">黄</span>,<span style="color:green">绿</span>
+     </body>
 <html>
 
 ## Contributing
