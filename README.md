@@ -19,6 +19,14 @@
      > Better to running your scratch projects
      > Many more new extensions
 
+## **About SKY Studio**
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
