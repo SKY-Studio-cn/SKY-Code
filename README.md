@@ -21,11 +21,13 @@
 
 ## **About SKY Studio**
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+<html>
+     <table>
+         <tr>
+             <td>Foo</td>
+         </tr>
+     </table>
+<html>
 
 ## Contributing
 
