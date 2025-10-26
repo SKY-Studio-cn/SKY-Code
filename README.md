@@ -21,10 +21,10 @@
 
  ## Compare with *other editor*
 
-| Syntax      |描述|
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Scratch      |TurboWarp|TurboWarp|
+| ----------- | ----------- | ----------- |
+| Header      | Title       | Header      | Title       |
+| Paragraph   | Text        | Paragraph   | Text        |
 
 ## Contributing
 
