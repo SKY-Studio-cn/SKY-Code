@@ -5,21 +5,21 @@
 ## **What is it？**
 
 *   A modified version of TurboWarp.
-*   Create your own app for the SKY OS/UI
-*   Running your Scratch projects faster
+*   Create your own app for the SKY OS/UI.
+*   Running your Scratch projects faster.
 
 ## **What can it do？**
 *    For us
-     * Better to update SKY UI/OS
+     * Better to update SKY UI/OS.
 *    For Developers
 
-     * Better to make apps for SKY UI/OS
+     * Better to make apps for SKY UI/OS.
      
-     * Check you app quickly
+     * Check you app quickly.
      
 *    For Users
-     * Better to running your scratch projects
-     * Many more new extensions
+     * Better to running your scratch projects.
+     * Many more new extensions.
 
  ## Compare with *other editor*
 
