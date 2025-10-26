@@ -5,7 +5,8 @@
 ## **What is it？**
 
 *   A modified version of TurboWarp.
-*   Simulate a real mobile operating system
+*   Create your own app for the SKY OS/UI
+*   Run your scratch project faster
 
 ## **What can it do？**
 *    For us
