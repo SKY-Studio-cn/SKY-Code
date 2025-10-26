@@ -8,16 +8,16 @@
 
 ## **What can it do？**
 *    For us
-     > Better to make apps for SKY UI/OS
+     * Better to make apps for SKY UI/OS
 *    For Developers
 
-     > Better to make apps for SKY UI/OS
+     * Better to make apps for SKY UI/OS
      
-     > Check you app quickly
+     * Check you app quickly
      
 *    For Users
-     > Better to running your scratch projects
-     > Many more new extensions
+     * Better to running your scratch projects
+     * Many more new extensions
 
  ## Compare with *other editor*
 
@@ -29,3 +29,8 @@
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## to users
+
+#Tech No Logy.
+———— by shxUwU（FreeUI Official）
